@@ -42,7 +42,7 @@ This Project is technically one of the most interesting projects I have ever don
 
 ---
 
-### **3️⃣ Optional tip**
+### ** Optional tip**
 
 - If you use a **virtual environment**, it’s even cleaner:  
 
